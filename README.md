@@ -4,6 +4,13 @@
 
 ![vino](https://img.icons8.com/color/96/wine-bottle.png)
 
+## 👥 Integrantes
+
+* 👨‍💻 Juan Martín Sánchez
+* 👨‍💻 Juan Esteban Camargo
+* 👨‍💻 Santiago Martínez
+* 👨‍💻 Juan Esteban Garzón
+
 ## 🎯 Objetivo
 
 Desarrollar modelos de clasificación utilizando redes neuronales para predecir la **calidad del vino** (clases 4 y 5) a partir de sus características físicas y categóricas. Se comparan diferentes arquitecturas para determinar cuál ofrece el mejor rendimiento.
@@ -53,13 +60,6 @@ Desarrollar modelos de clasificación utilizando redes neuronales para predecir 
 ## 📦 Dataset
 
 [📂 Kaggle: Spanish Wine Quality Dataset](https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset)
-
-## 👥 Integrantes
-
-* 👨‍💻 Juan Martín Sánchez
-* 👨‍💻 Juan Esteban Camargo
-* 👨‍💻 Santiago Martínez
-* 👨‍💻 Juan Esteban Garzón
 
 ## 👨‍🏫 Profesor
 
