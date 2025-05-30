@@ -64,7 +64,8 @@ Desarrollar modelos de clasificación utilizando redes neuronales para predecir 
 ## 👨‍🏫 Profesor
 
 **Julio Omar Palacio Niño**
-Pontificia Universidad Javeriana 🏛️
+
+**Pontificia Universidad Javeriana** 🏛️
 
 ## 🛠 Tecnologías usadas
 
